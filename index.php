@@ -1,6 +1,6 @@
 <?php
 
     echo 'Hello Everyone';
-    echo 'Olá Galera!';
+    echo 'Olá Pessoal!';
 
 ?>
